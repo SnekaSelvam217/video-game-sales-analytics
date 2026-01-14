@@ -1,0 +1,19 @@
+Load games.csv and vgsales.csv.
+
+Handle missing values.
+
+Merge datasets on Title / Name and Platform.
+
+Normalize genres and platforms.
+
+mini_eda.ipynb
+
+Top-rated games (bar chart).
+
+Most wishlisted games (bar chart).
+
+Top-selling platforms (bar chart).
+
+Scatter plot: ratings vs global sales.
+
+Optional: average rating per genre.
